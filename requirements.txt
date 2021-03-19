@@ -45,3 +45,5 @@ dvc[gdrive]
 sklearn
 numpy
 pandas
+matplotlib
+seaborn
